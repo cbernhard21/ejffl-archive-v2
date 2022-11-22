@@ -1,0 +1,240 @@
+{
+    "summary": {
+        "mainSummary1": "Founded in 2006, the Ernie J. Fantasy Football League (EJFFL) is named after Merrill Hall on the campus of Central Michigan University. Launched by co-commissioners Neil Brecheisen and Lizandro Tremolada, the EJFFL has enjoyed years of spirited involvement ranging from draft calls from China, owner Olympics, and ill-advised bachelor parties.",
+        "mainSummary2": "Now headed by Commissioner Tremolada, the EJFFL continues its tradition of bringing longtime friends together, and introducing new ones, for hard-nosed competition and continued camaraderie. If you're reading this, you already know how fortunate you are to be a part of it."
+    },
+    "current": {
+        "currentOwners": [{
+                "teamName": "Urban Achievers",
+                "logo": "images/logos/LLUA-logo.gif",
+                "firstName": "Chris",
+                "lastName": "Bernhard",
+                "wins": 53,
+                "loses": 44,
+                "playoffWins": 1,
+                "playoffLoses": 5,
+                "trades": 49,
+                "championships": []
+            },
+            {
+                "teamName": "Shogun Dynasty",
+                "logo": "images/logos/shogun-logo.jpg",
+                "firstName": "Dave",
+                "lastName": "Bernhard",
+                "wins": 132,
+                "loses": 91,
+                "playoffWins": 12,
+                "playoffLoses": 7,
+                "trades": 46,
+                "championships": [2009, 2013, 2014, 2018]
+            },
+            {
+                "teamName": "Big Nasty",
+                "logo": "images/logos/big-nasty.jpg",
+                "firstName": "Neil",
+                "lastName": "Brecheisen",
+                "wins": 121,
+                "loses": 102,
+                "playoffWins": 11,
+                "playoffLoses": 5,
+                "trades": 103,
+                "championships": [2016, 2017, 2020]
+            },
+            {
+                "teamName": "Flattened Curve",
+                "logo": "images/logos/curve-logo.png",
+                "firstName": "Jeff",
+                "lastName": "Johnson",
+                "wins": 50,
+                "loses": 47,
+                "playoffWins": 2,
+                "playoffLoses": 4,
+                "trades": 32,
+                "championships": []
+            },
+            {
+                "teamName": "Jamestown Buffaloes",
+                "logo": "images/logos/buffaloes-logo.png",
+                "firstName": "Matt",
+                "lastName": "Weaver",
+                "wins": 99,
+                "loses": 124,
+                "playoffWins": 4,
+                "playoffLoses": 5,
+                "trades": 32,
+                "championships": []
+            },
+            {
+                "teamName": "Flying Canadian",
+                "logo": "images/logos/FC-logo.jpg",
+                "firstName": "Jake",
+                "lastName": "Gabrielson",
+                "wins": 65,
+                "loses": 60,
+                "playoffWins": 3,
+                "playoffLoses": 7,
+                "trades": 14,
+                "championships": []
+            },
+            {
+                "teamName": "Chamberlain's Libido",
+                "logo": "images/logos/chamberlain-logo.jpg",
+                "firstName": "Adam",
+                "lastName": "Osman",
+                "wins": 111,
+                "loses": 112,
+                "playoffWins": 5,
+                "playoffLoses": 7,
+                "trades": 97,
+                "championships": [2021]
+            },
+            {
+                "teamName": "J.G. Wentworth",
+                "logo": "images/logos/JG-logo.jpg",
+                "firstName": "Erik",
+                "lastName": "Kaltenthaler",
+                "wins": 9,
+                "loses": 18,
+                "playoffWins": 0,
+                "playoffLoses": 0,
+                "trades": 16,
+                "championships": []
+            },
+            {
+                "teamName": "North Side Super Combatants",
+                "logo": "images/logos/NSSC-logo.jpg",
+                "firstName": "Kenny",
+                "lastName": "Warner",
+                "wins": 113,
+                "loses": 110,
+                "playoffWins": 4,
+                "playoffLoses": 6,
+                "trades": 25,
+                "championships": [2012]
+            },
+            {
+                "teamName": "Team $",
+                "logo": "images/logos/money-logo.jpg",
+                "firstName": "Brad",
+                "lastName": "Czyzewski",
+                "wins": 99,
+                "loses": 82,
+                "playoffWins": 7,
+                "playoffLoses": 7,
+                "trades": 51,
+                "championships": [2011, 2019]
+            },
+            {
+                "teamName": "The DeLoreans",
+                "logo": "images/logos/delos-logo.png",
+                "firstName": "Rob",
+                "lastName": "Trepanier",
+                "wins": 119,
+                "loses": 104,
+                "playoffWins": 5,
+                "playoffLoses": 6,
+                "trades": 50,
+                "championships": [2015]
+            },
+            {
+                "teamName": "Triple-X",
+                "logo": "images/logos/xxx-logo.gif",
+                "firstName": "Lizandro",
+                "lastName": "Tremolada",
+                "wins": 99,
+                "loses": 124,
+                "playoffWins": 1,
+                "playoffLoses": 4,
+                "trades": 69,
+                "championships": []
+            }
+        ]
+    },
+    "past": {
+        "pastOwners": [{
+                "teamName": "Minutemen",
+                "logo": "images/logos/minuteman-logo.jpg",
+                "firstName": "Derek",
+                "lastName": "Johnson",
+                "wins": 83,
+                "loses": 71,
+                "playoffWins": 6,
+                "playoffLoses": 7,
+                "trades": 31,
+                "championships": [2008]
+            },
+            {
+                "teamName": "Leather Heads",
+                "logo": "images/logos/generic-logo.png",
+                "firstName": "Kyle",
+                "lastName": "Crew",
+                "wins": 16,
+                "loses": 25,
+                "playoffWins": 1,
+                "playoffLoses": 1,
+                "trades": 9,
+                "championships": []
+            },
+            {
+                "teamName": "Team Busch",
+                "logo": "images/logos/generic-logo.png",
+                "firstName": "Joe",
+                "lastName": "Pfeiffer",
+                "wins": 34,
+                "loses": 64,
+                "playoffWins": 6,
+                "playoffLoses": 2,
+                "trades": 9,
+                "championships": [2006]
+            },
+            {
+                "teamName": "Bo’s Boys",
+                "logo": "images/logos/generic-logo.png",
+                "firstName": "Kelley",
+                "lastName": "Pfeiffer",
+                "wins": 54,
+                "loses": 44,
+                "playoffWins": 8,
+                "playoffLoses": 3,
+                "trades": 8,
+                "championships": [2007, 2010]
+            },
+            {
+                "teamName": "Blue Blazers",
+                "logo": "images/logos/generic-logo.png",
+                "firstName": "Shannon",
+                "lastName": "Brecheisen",
+                "wins": 16,
+                "loses": 26,
+                "playoffWins": 0,
+                "playoffLoses": 0,
+                "trades": 4,
+                "championships": []
+            },
+            {
+                "teamName": "ShowMe/PackerGuy",
+                "logo": "images/logos/generic-logo.png",
+                "firstName": "Jarrod",
+                "lastName": "Becht",
+                "wins": 8,
+                "loses": 20,
+                "playoffWins": 0,
+                "playoffLoses": 0,
+                "trades": 5,
+                "championships": []
+            },
+            {
+                "teamName": "Regulatorz",
+                "logo": "images/logos/generic-logo.png",
+                "firstName": "Ryan",
+                "lastName": "Phillips",
+                "wins": 58,
+                "loses": 68,
+                "playoffWins": 2,
+                "playoffLoses": 3,
+                "trades": 21,
+                "championships": []
+            }
+        ]
+    }
+}

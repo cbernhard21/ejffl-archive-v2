@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles/main.css" type="text/css" />
+    <title>EJFFL Archives</title>
+  </head>
+
+  <body>
+    <div class="content">
+      <header class="main-header card-bottom-margin"></header>
+
+      <!-- all content goes here -->
+      <div class="page-layout-container">
+        <main class="is-hidden" id="main">
+          <article class="card container card-bottom-margin">
+            <h2 class="subtitle card-padding">Current Team's All-Time Playoff Record</h2>
+            <!-- container for current Standings -->
+            <div class="grid-standings card-padding">
+              <!-- titles of the columns for the standings -->
+              <div class="grid-header grid-4">
+                <h3>Team Name</h3>
+                <h3 class="align-right pointer" id="wins-column-current">Wins</h3>
+                <h3 class="align-right pointer" id="loses-column-current">Loses</h3>
+                <h3 class="align-right pointer" id="percent-column-current">Win %</h3>
+              </div>
+              <!-- display of the actual standings  -->
+              <div id="current-playoff-standings-container"></div>
+            </div>
+            <p class="time-stamp container card-bottom-margin">Updated - 1/10/2022</p>
+          </article>
+
+          <article class="card container card-bottom-margin">
+            <h2 class="subtitle card-padding">Past Team's All-Time Playoff Record</h2>
+            <!-- container for current Standings -->
+            <div class="grid-standings card-padding">
+              <!-- titles of the columns for the standings -->
+              <div class="grid-header grid-4">
+                <h3>Team Name</h3>
+                <h3 class="align-right pointer" id="wins-column-past">Wins</h3>
+                <h3 class="align-right pointer" id="loses-column-past">Loses</h3>
+                <h3 class="align-right pointer" id="percent-column-past">Win %</h3>
+              </div>
+              <!-- display of the actual standings  -->
+              <div id="past-playoff-standings-container"></div>
+            </div>
+          </article>
+        </main>
+
+        <!-- main navigation -->
+        <nav class="card-bottom-margin"></nav>
+      </div>
+    </div>
+    <footer id="footer">
+      <div class="container">Powered By Left Hand Productions</div>
+    </footer>
+
+    <script src="js/app.js" type="module"></script>
+  </body>
+</html>
